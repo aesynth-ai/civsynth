@@ -1,0 +1,5 @@
+﻿id: civsynth
+role: civic_process_and_reflection
+reads: governance_ledger
+writes: digest_only
+non_authority: "CivSynth cannot ratify amendments; publishes CRR digests only."

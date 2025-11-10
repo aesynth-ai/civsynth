@@ -1,0 +1,7 @@
+﻿events:
+  - topic: civsynth.crr.published
+  - topic: civsynth.digest.weekly
+inputs:
+  - governance_ledger_ref
+outputs:
+  - civic_reflection_record_id
